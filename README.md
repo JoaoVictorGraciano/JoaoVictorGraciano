@@ -4,11 +4,9 @@ Sou João Victor, estudante de Engenharia de Software e apaixonado por Desenvolv
 
 ---
 
-## 🛠️ Tecnologias e Frameworks que Utilizo 💻
+🛠️ Tecnologias e Frameworks que Utilizo 💻
 
-**Python 🐍** | **Java ☕** | **JavaScript 📜** | **Spring Boot 🌱**  
-**Flask 🔥** | **Node.js 🔧** | **TypeScript 📚** | **PostgreSQL 💾**  
-**MongoDB 📊** | **Docker 🐳** | **AWS ☁️** | **GitHub Actions 🔄**
+Python 🐍 | Java ☕ | Spring Boot 🌱 | Flask 🔥 | PostgreSQL 💾
 
 ---
 
@@ -16,7 +14,6 @@ Sou João Victor, estudante de Engenharia de Software e apaixonado por Desenvolv
 
 - **Desenvolvimento Full-Stack**: Construção de sistemas e APIs robustas com Python e Java, utilizando Flask, Spring Boot, e Node.js.
 - **API Rest**: Desenvolvimento de APIs com integração a bancos de dados como PostgreSQL e MongoDB, incluindo segurança e autenticação.
-- **Banco de Dados**: Conexão e manipulação de dados com SQL e NoSQL, além de integração com JPA e H2 Database.
 - **Desenvolvimento de Back-End**: Construção de funcionalidades para sistemas e serviços com Spring Boot e Flask.
 - **Inteligência Artificial**: Conceitos fundamentais de IA, com aplicação prática em Python.
 - **Versionamento de Código**: Utilização de Git e GitHub para versionamento e colaboração em projetos.
@@ -80,6 +77,6 @@ Estou comprometido em criar sistemas de alta qualidade e explorar diferentes ver
 
 ## 📧 Vamos Conversar! 💬
 
-- **E-mail**: [joaovictorgracianoc@gamil.com](joaovictorgracianoc@gamil.com)
-- **LinkedIn**: [www.linkedin.com/in/joão-victor-campos-3b7a92333](#)
+- **E-mail**: [joaovictorgracianoc@gmail.com](mailto:joaovictorgracianoc@gmail.com)
+- **LinkedIn**: [João Victor no LinkedIn](https://www.linkedin.com/in/joão-victor-campos-3b7a92333)
 
