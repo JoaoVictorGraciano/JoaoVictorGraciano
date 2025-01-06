@@ -54,8 +54,8 @@ Sou João Victor, estudante de Engenharia de Software e apaixonado por Desenvolv
 
 🔥 **Estatísticas do GitHub** 📈
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVictorApi&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorApi&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVictorGraciano&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorGraciano&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150"/>
 </div>
 
 🌱 **Sobre Mim** 💡
