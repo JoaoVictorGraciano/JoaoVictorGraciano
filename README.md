@@ -80,7 +80,6 @@ Estou comprometido em criar sistemas de alta qualidade e explorar diferentes ver
 
 ## 📧 Vamos Conversar! 💬
 
-- **E-mail**: [joaovictor@email.com](mailto:joaovictor@email.com)
-- **LinkedIn**: [Meu Perfil](#)
-- **GitHub**: [João Victor no GitHub](https://github.com/JoaoVictorGraciano)
-- 
+- **E-mail**: [joaovictorgracianoc@gamil.com](joaovictorgracianoc@gamil.com)
+- **LinkedIn**: [www.linkedin.com/in/joão-victor-campos-3b7a92333](#)
+
